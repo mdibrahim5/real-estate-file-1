@@ -1,0 +1,12 @@
+@media only screen and (max-width: 575px)  {
+    .properties-img  img{
+        width: 50%;
+    }
+   
+    
+}
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
